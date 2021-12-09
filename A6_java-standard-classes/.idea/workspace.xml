@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81db1d02-29b4-415a-843c-760b7d111bc0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/code/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/ArraysClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/Base64Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/BigNumberClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/BuilderNBufferStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/DateNCalenderClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/MathClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/NumberClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/ObjectsClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/PropertierClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/RandomClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/RegexTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/RuntimeClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/ScannerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/StringJoinerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/StringTokenizerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/SystemClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/code/UUIDCLassTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="222x0EQvvrfAVlMZqfuq2RbUrTe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="RunManager" selected="JUnit.RegexTest.testPatternMacher">
+    <configuration name="ArraysClass.testMethodArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A6_java-standard-classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="code" />
+      <option name="MAIN_CLASS_NAME" value="code.ArraysClass" />
+      <option name="METHOD_NAME" value="testMethodArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertierClassTest.testAddProperties" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A6_java-standard-classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="code" />
+      <option name="MAIN_CLASS_NAME" value="code.PropertierClassTest" />
+      <option name="METHOD_NAME" value="testAddProperties" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertierClassTest.testProperties" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A6_java-standard-classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="code" />
+      <option name="MAIN_CLASS_NAME" value="code.PropertierClassTest" />
+      <option name="METHOD_NAME" value="testProperties" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomClassTest.testRandom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A6_java-standard-classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="code" />
+      <option name="MAIN_CLASS_NAME" value="code.RandomClassTest" />
+      <option name="METHOD_NAME" value="testRandom" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegexTest.testPatternMacher" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A6_java-standard-classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="code" />
+      <option name="MAIN_CLASS_NAME" value="code.RegexTest" />
+      <option name="METHOD_NAME" value="testPatternMacher" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RegexTest.testPatternMacher" />
+        <item itemvalue="JUnit.ArraysClass.testMethodArray" />
+        <item itemvalue="JUnit.PropertierClassTest.testAddProperties" />
+        <item itemvalue="JUnit.PropertierClassTest.testProperties" />
+        <item itemvalue="JUnit.RandomClassTest.testRandom" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81db1d02-29b4-415a-843c-760b7d111bc0" name="Changes" comment="" />
+      <created>1639049260483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639049260483</updated>
+      <workItem from="1639049262158" duration="330000" />
+      <workItem from="1639049613939" duration="7752000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
