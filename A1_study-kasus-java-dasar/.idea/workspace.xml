@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a7accf60-64a0-4076-a279-6bfd1dea63ec" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A6_java-standard-classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A6_java-standard-classes/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +44,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../A7_java-generic" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="database.main" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Application.AplikasiTodolist">
     <configuration name="AplikasiTodolist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -147,6 +149,11 @@
       <updated>1638186909580</updated>
       <workItem from="1638186913292" duration="5505000" />
       <workItem from="1638272718268" duration="12000" />
+      <workItem from="1639398794928" duration="149000" />
+      <workItem from="1639702610230" duration="120000" />
+      <workItem from="1639739807756" duration="35000" />
+      <workItem from="1639745522146" duration="2071000" />
+      <workItem from="1639824546645" duration="672000" />
     </task>
     <task id="LOCAL-00001" summary="Day 1 study kasus java dasar">
       <created>1638192421070</created>

@@ -5,34 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81db1d02-29b4-415a-843c-760b7d111bc0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/code/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/ArraysClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/Base64Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/BigNumberClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/BuilderNBufferStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/DateNCalenderClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/MathClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/NumberClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/ObjectsClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/PropertierClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/RandomClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/RegexTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/RuntimeClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/ScannerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/StringJoinerClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/StringTokenizerClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/SystemClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/code/UUIDCLassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,11 +152,26 @@
       <option name="presentableId" value="Default" />
       <updated>1639049260483</updated>
       <workItem from="1639049262158" duration="330000" />
-      <workItem from="1639049613939" duration="7752000" />
+      <workItem from="1639049613939" duration="8050000" />
+      <workItem from="1639096533380" duration="255000" />
+      <workItem from="1639096855602" duration="7000" />
+      <workItem from="1639106751991" duration="290000" />
     </task>
+    <task id="LOCAL-00001" summary="A6_java-standard-classes">
+      <created>1639057644310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639057644310</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A6_java-standard-classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="A6_java-standard-classes" />
   </component>
 </project>
